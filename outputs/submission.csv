@@ -1,0 +1,10 @@
+import pandas as pd
+
+df = pd.read_csv("outputs/forecast_results.csv")
+
+submission = pd.DataFrame({
+    "id": range(len(df)),
+    "y_pred": df["predicted_price"]
+})
+
+submission.to_csv("outputs/submission.csv", index=False)g
