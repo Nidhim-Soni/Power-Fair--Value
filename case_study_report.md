@@ -1,7 +1,9 @@
 # European Power Fair Value Forecasting Pipeline with AI-Assisted Trading Signals
 
 **Candidate:** Nidhim Soni
-**Email:** your_email_here
+
+
+**Email:** nidhimsoni24@gmail.com
 
 ---
 
