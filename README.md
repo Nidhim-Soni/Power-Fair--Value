@@ -1,5 +1,5 @@
 # European Power Fair Value Forecast
-
+## End-to-end energy trading forecasting pipeline with AI-assisted market interpretation.
 **Candidate:** Nidhim Soni
 **Case Study:** Cobblestone Energy – Trading & AI Assessment
 
@@ -26,7 +26,9 @@ The project replicates a real quantitative energy trading workflow:
 Forecast deviations are converted into LONG/SHORT trading positions.
 
 ---
+## Forecast Performance
 
+![Forecast Plot](outputs/forecast_plot.png)
 ## Data Sources
 
 * European Wholesale Electricity Prices (Hourly)
