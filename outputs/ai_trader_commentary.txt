@@ -1,0 +1,1 @@
+Model indicates bearish power prices with fair value spread of -9.81 €/MWh.
